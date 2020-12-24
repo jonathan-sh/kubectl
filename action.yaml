@@ -1,5 +1,5 @@
 name: kube-eks-cli
-description: "Provide the kubectl command to perform actions on your cluster."
+description: "Provide the kubectl command to make actions on your eks cluster."
 author: 'Jonathan Henrique'
 branding:
   icon: 'terminal'

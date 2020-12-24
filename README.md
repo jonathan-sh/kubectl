@@ -1,5 +1,5 @@
-# kubectl 🚀
-Provide the kubectl command to make actions on your cluster.
+# kubectl for AWS eks 🚀
+Provide the kubectl command to make actions on your eks cluster.
 
 ## Env check list
 ✓ `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` – **required**: aws credentials with eks access.
