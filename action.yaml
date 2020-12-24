@@ -1,4 +1,4 @@
-name: kubectl-eks-cmd
+name: kube-eks-cli
 description: "Provide the kubectl command to perform actions on your cluster."
 author: 'Jonathan Henrique'
 branding:
