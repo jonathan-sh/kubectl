@@ -1,0 +1,9 @@
+name: kubectl-eks-cmd
+description: "Provide the kubectl command to perform actions on your cluster."
+author: 'Jonathan Henrique'
+branding:
+  icon: 'terminal'
+  color: 'blue'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
